@@ -73,5 +73,6 @@ if __name__ == "__main__":
         Mad Libs is a word game where one player prompts another for a list of words to substitute for blanks in a story; these word substitutions have a humorous effect when the resulting story is then read aloud. 
         The game is especially popular with American children and is frequently played as a party game or as a pastime.
         """)
+    print("Those stories are created by Steve Hanson, you can find more on his web https://www.glowwordbooks.com/")
     result = story_result()
     print(result)
